@@ -1,16 +1,8 @@
 # flutter_3d_model
 
-A new Flutter project.
+## Packages
+- flutter_3d_controller
 
-## Getting Started
+https://github.com/ahmedkhaled1234991/flutter_3d_model/assets/22778145/533a6d58-be3c-4378-a944-6a6a85e6f6ce
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
